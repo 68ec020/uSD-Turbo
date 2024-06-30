@@ -17,9 +17,9 @@ The interface works in my BBC Micro. I included resisters everywhere two outputs
 
 ## Build your own
 
-I ordered PCD from JLCPCB. Just use the file jlcpcb/production_files/GERBER-uSD-Turbo.zip
+I ordered PCBs from JLCPCB. Just use the file jlcpcb/production_files/GERBER-uSD-Turbo.zip
 
-Uses the HTML-based BOM tool in /bom
+Use the HTML-based BOM tool in /bom
 
 I bought a microSD card slot on eBay, but I don't have a specific part number.
 
